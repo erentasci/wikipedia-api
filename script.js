@@ -60,7 +60,7 @@ const showError = (err) => {
 
 const handleKey = (e) => {
     if(e.key === "Enter"){
-        getData(searchInput.value);
+        getData();
 
     }
 }
@@ -70,11 +70,11 @@ const eventHandlers = ()=>{
     submitButton.addEventListener("click",getData);
 }
 
-const getData = async (inputValue) => {
+const getData = async () => {
 
     
 
-    const userInput = inputValue;
+    const userInput = searchInput.value;
     if (isInputEmpty(userInput)) return;
 
     params.gsrsearch = userInput;
