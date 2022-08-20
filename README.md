@@ -12,6 +12,6 @@ My Wikipedia search application that i created using Wikipeadi API
 ```
 
 ## Preview 
-![screenshot](./wikipedia-api/img/screenshot.png) 
+![screenshot](./wikipedia-api/master/img/screenshot.png) 
 
 Live URL💻: [https://erentasci-wikipedia-api.vercel.app/](https://erentasci-wikipedia-api.vercel.app/)
