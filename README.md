@@ -8,7 +8,7 @@ My Wikipedia search application that i created using Wikipeadi API
 ```
 - Html, Css
 - Javascript, DOM
-- Axios 
+- Wikipedia API
 ```
 
 ## Preview 
